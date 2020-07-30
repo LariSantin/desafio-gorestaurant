@@ -1,4 +1,4 @@
-# desafio-gorestaurant
+# Desafio GoRestaurant
 
 Nesse desafio, você irá desenvolver mais uma aplicação, a GoRestaurant.
 
